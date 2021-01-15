@@ -11,6 +11,7 @@
 		44EE924E25B1D4790024A2E3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44EE924D25B1D4790024A2E3 /* ContentView.swift */; };
 		44EE925025B1D47B0024A2E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44EE924F25B1D47B0024A2E3 /* Assets.xcassets */; };
 		44EE925325B1D47B0024A2E3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44EE925225B1D47B0024A2E3 /* Preview Assets.xcassets */; };
+		44EE925C25B1D4B80024A2E3 /* HamburgerMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44EE925B25B1D4B80024A2E3 /* HamburgerMenu.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		44EE924F25B1D47B0024A2E3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		44EE925225B1D47B0024A2E3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		44EE925425B1D47B0024A2E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		44EE925B25B1D4B80024A2E3 /* HamburgerMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HamburgerMenu.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				44EE924B25B1D4790024A2E3 /* HamburgerMenuApp.swift */,
 				44EE924D25B1D4790024A2E3 /* ContentView.swift */,
+				44EE925B25B1D4B80024A2E3 /* HamburgerMenu.swift */,
 				44EE924F25B1D47B0024A2E3 /* Assets.xcassets */,
 				44EE925425B1D47B0024A2E3 /* Info.plist */,
 				44EE925125B1D47B0024A2E3 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				44EE924E25B1D4790024A2E3 /* ContentView.swift in Sources */,
 				44EE924C25B1D4790024A2E3 /* HamburgerMenuApp.swift in Sources */,
+				44EE925C25B1D4B80024A2E3 /* HamburgerMenu.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

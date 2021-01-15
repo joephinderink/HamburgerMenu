@@ -12,6 +12,7 @@ struct HamburgerMenuApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(expand())
         }
     }
 }
